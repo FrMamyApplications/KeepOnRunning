@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KeepOnRunning</string>
+
+    <string name="stop">Stop</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="start">Start</string>
+    <string name="zero">zero</string>
+
+    <string name="vertical">Vertical</string>
+</resources>
